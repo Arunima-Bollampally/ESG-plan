@@ -1,2 +1,2 @@
-# ESG-plan
-Preparing ESG activation plan for  UPSIDE FOODS
+# Preparing ESG activation plan for  UPSIDE FOOD
+Upside Foods, a Berkeley-based cultivated meat pioneer, specializes in cultivated chicken and has raised over $600M from investors like Bill Gates and Tyson. After FDA and USDA approval in 2023, it launched products in high-end restaurants. The company aims to scale production from 50,000 to 400,000 lbs/year, expand to other meats, and lower costs through R&D and AI-driven efficiency. A materiality assessment identified key ESG priorities, including market dynamics, regulatory compliance, and sustainability. Achieving growth will require $104.75M, including $70M for facility expansion, automation, and R&D, alongside hiring 500 new employees.
